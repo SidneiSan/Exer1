@@ -1,0 +1,12 @@
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\Company.MyProj.Base.Entity.dll.config
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\Company.MyProj.Base.Entity.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\Company.MyProj.Base.Entity.pdb
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\EntityFramework.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\EntityFramework.xml
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\obj\Debug\Company.MyProj.Base.Entity.csprojAssemblyReference.cache
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\obj\Debug\Company.MyProj.Base.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\obj\Debug\Company.MyProj.Base.Entity.csproj.CopyComplete
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\obj\Debug\Company.MyProj.Base.Entity.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Base.Entity\obj\Debug\Company.MyProj.Base.Entity.pdb

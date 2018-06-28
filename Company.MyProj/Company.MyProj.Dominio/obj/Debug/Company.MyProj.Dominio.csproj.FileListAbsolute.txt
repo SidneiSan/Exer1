@@ -1,0 +1,6 @@
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\bin\Debug\Company.MyProj.Dominio.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\bin\Debug\Company.MyProj.Dominio.pdb
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\obj\Debug\Company.MyProj.Dominio.csprojAssemblyReference.cache
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\obj\Debug\Company.MyProj.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\obj\Debug\Company.MyProj.Dominio.dll
+C:\Users\SIDNEI\source\repos\Company.MyProj\Company.MyProj.Dominio\obj\Debug\Company.MyProj.Dominio.pdb
